@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Zahid Ali
+- 👀 I’m interested in open source projects
+- 🌱 I’m currently learning React.js and concurrency in programming languages
+- 🐦 Follow me on [twitter](https://twitter.com/XahidSha)
